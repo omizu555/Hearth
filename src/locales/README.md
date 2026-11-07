@@ -11,6 +11,7 @@ truth; every other locale is type-checked against it.
 | `en` | English (source of truth) | [`en.ts`](en.ts) |
 | `de` | German — Deutsch | [`de.ts`](de.ts) |
 | `fr` | French — Français | [`fr.ts`](fr.ts) |
+| `ja` | Japanese — 日本語 | [`ja.ts`](ja.ts) |
 | `ko` | Korean — 한국어 | [`ko.ts`](ko.ts) |
 | `zh` | Simplified Chinese — 简体中文 | [`zh.ts`](zh.ts) |
 

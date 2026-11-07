@@ -2,6 +2,7 @@ import { de } from "./de";
 import { en } from "./en";
 import { ko } from "./ko";
 import { fr } from "./fr";
+import { ja } from "./ja";
 import { zh } from "./zh";
 
 /**
@@ -25,4 +26,5 @@ export const LOCALES: Record<string, Translations> = {
 	de,
 	fr,
 	zh,
+	ja,
 };
