@@ -1,9 +1,9 @@
 {
-	"id": "hearth",
-	"name": "Hearth",
+	"id": "hearth-ja",
+	"name": "Hearth (日本語版)",
 	"version": "3.6.0",
 	"minAppVersion": "1.8.7",
-	"description": "A beautiful, customizable home screen for your vault — search, dashboard, and launcher in one.",
+	"description": "Hearth の日本語版（非公式フォーク）。検索・ダッシュボード・ランチャーがひとつになった、カスタマイズできる保管庫のホーム画面。",
 	"author": "ondreu",
 	"authorUrl": "https://github.com/ondreu",
 	"fundingUrl": "https://ko-fi.com/B7K822EW68",
